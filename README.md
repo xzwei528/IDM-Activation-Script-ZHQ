@@ -1,1 +1,1 @@
-# IDM-Activation-Script-ZHQ
+# IDM激活脚本汉化版
